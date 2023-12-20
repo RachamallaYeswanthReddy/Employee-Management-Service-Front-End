@@ -104,7 +104,6 @@ Both frontend and backend components are equipped with unit tests. Execute tests
 ## ScreenShort
 
 
-https://github.com/RachamallaYeswanthReddy/Student-Management-System/assets/91588050/761418d7-df64-44c2-91ff-8a441ea43fdd
 
 
 
@@ -112,7 +111,7 @@ https://github.com/RachamallaYeswanthReddy/Student-Management-System/assets/9158
 ## Additional Information
 
   - The AngularJS frontend is running on [http://localhost:4200](http://localhost:4200).
-- The Spring Boot backend is running on [http://localhost:8080](http://localhost:8080).
+  - The Spring Boot backend is running on [http://localhost:8080](http://localhost:8080).
 
 ## Contributing
 
