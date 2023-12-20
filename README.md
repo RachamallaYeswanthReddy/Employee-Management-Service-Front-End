@@ -5,8 +5,7 @@
 
 This project is a comprehensive Student Management System developed using a Java Full Stack approach. The technologies used include HTML, CSS, JavaScript, AngularJS, Node.js, Java, Spring Boot, and MySQL.
 
-[Demo](Demo.mp4)
-
+https://github.com/RachamallaYeswanthReddy/Student-Management-System/blob/main/Demo.mp4
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
